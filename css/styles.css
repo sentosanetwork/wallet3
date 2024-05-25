@@ -1,0 +1,11 @@
+.wallet-info {
+    color: #14cc9e;
+}
+
+.wallet-info p {
+    margin: 0.5rem 0;
+}
+
+#walletAddress, #ethBalance, #usdtBalance {
+    font-weight: bold;
+}
